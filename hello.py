@@ -1,3 +1,4 @@
+#!/usr/bin/evn python
 import os
 from flask import Flask, render_template, session, redirect, url_for
 from flask.ext.script import Manager, Shell
